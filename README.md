@@ -10,4 +10,4 @@ The User table have basic fields such as name, email &amp; current balance. <br>
 The Transaction table records all transfers happened along with their time. <br>
 The Flow of the Website: <br>
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.<br>
-
+Link of host:https://crystallisable-cond.000webhostapp.com/money.php
